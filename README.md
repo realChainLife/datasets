@@ -1,3 +1,4 @@
+[![Update Hub repositories](https://github.com/realChainLife/datasets/actions/workflows/update-hub-repositories.yaml/badge.svg)](https://github.com/realChainLife/datasets/actions/workflows/update-hub-repositories.yaml)
 <p align="center">
     <br>
     <img src="https://raw.githubusercontent.com/huggingface/datasets/master/docs/source/imgs/datasets_logo_name.jpg" width="400"/>
